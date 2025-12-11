@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/24.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/grig/ITWorks/fuzzy-new/fuzzy/target/surefire/surefirebooter-20251207171256073_3.jar /Users/grig/ITWorks/fuzzy-new/fuzzy/target/surefire 2025-12-07T17-12-56_029-jvmRun1 surefire-20251207171256073_1tmp surefire_0-20251207171256073_2tmp"/>
+    <property name="sun.java.command" value="/Users/grig/ITWorks/fuzzy-new/fuzzy/target/surefire/surefirebooter-20251211080241231_3.jar /Users/grig/ITWorks/fuzzy-new/fuzzy/target/surefire 2025-12-11T08-02-41_189-jvmRun1 surefire-20251211080241231_1tmp surefire_0-20251211080241231_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/grig/ITWorks/fuzzy-new/fuzzy/target/test-classes:/Users/grig/ITWorks/fuzzy-new/fuzzy/target/classes:/Users/grig/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.1/junit-jupiter-5.10.1.jar:/Users/grig/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/grig/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/grig/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/grig/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/grig/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.1/junit-jupiter-params-5.10.1.jar:/Users/grig/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/grig/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/grig/ITWorks/fuzzy-new/fuzzy/target/surefire/surefirebooter-20251207171256073_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/grig/ITWorks/fuzzy-new/fuzzy/target/surefire/surefirebooter-20251211080241231_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="24.0.2"/>
@@ -61,8 +61,8 @@
   </properties>
   <testcase name="hourBasedBuilderShouldWork" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.012"/>
   <testcase name="constantFactoryShouldReturnSameValue" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.001"/>
-  <testcase name="tomAndSunScenario" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.001"/>
-  <testcase name="andCompositionShouldWork" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.008"/>
+  <testcase name="tomAndSunScenario" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.002"/>
+  <testcase name="andCompositionShouldWork" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.007"/>
   <testcase name="defaultFactoryShouldReturnUnknown" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.001"/>
   <testcase name="duringHoursShouldWork" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.001"/>
   <testcase name="orCompositionShouldWork" classname="lab.kalba.fuzzy.temporal.TemporalFuzzyFactoryTest" time="0.001"/>
