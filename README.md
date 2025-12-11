@@ -18,7 +18,7 @@ Java library for fuzzy logic with signed truth values [-1, +1] and temporal oper
                                                             -1.0 ─ FALSE
 ```
 
-**Key difference:** In classical fuzzy logic, 0 means "false". In signed fuzzy logic, 0 means "unknown" — neither true nor false. Negative values represent degrees of falsity.
+**Key difference:** In classical fuzzy logic, 0 means "false". In signed fuzzy logic, 0 means "unknown" - neither true nor false. Negative values represent degrees of falsity.
 
 ## Truth Values
 
