@@ -1,8 +1,0 @@
-lab/kalba/fuzzy/core/FuzzyBool$Builder.class
-lab/kalba/fuzzy/temporal/TemporalFuzzyFactory$HourBasedBuilder.class
-lab/kalba/fuzzy/core/FuzzyValue.class
-lab/kalba/fuzzy/temporal/TemporalFuzzyFactory$Builder.class
-lab/kalba/fuzzy/temporal/TemporalFuzzyFactory$HourBasedBuilder$HourRule.class
-lab/kalba/fuzzy/temporal/TemporalFuzzyFactory.class
-lab/kalba/fuzzy/trigger/TriggerFunction.class
-lab/kalba/fuzzy/core/FuzzyBool.class
