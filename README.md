@@ -76,4 +76,6 @@ mvn clean test
 - Maven 3.6+
 
 ---
-_lab.kalba, 2022-2024_
+&copy; Kalba Lab, 2022-2024
+
+
